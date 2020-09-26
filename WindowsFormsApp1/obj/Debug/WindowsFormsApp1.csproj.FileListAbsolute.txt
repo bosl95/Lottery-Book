@@ -1,0 +1,33 @@
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_LOGIN.resources
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_JOIN.resources
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_main.resources
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_ADD.resources
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MAIN_CARDNBANK.resources
+C:\Users\응솔\Desktop\으윽\3-1\DB\DB프로젝트\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MAIN_modify.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\bin\Debug\MySql.Data.xml
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_LOGIN.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_JOIN.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form_MAIN.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Main_ADD.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MAIN_CARDNBANK.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MAIN_modify.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\sor\Desktop\Study\C#\새 폴더\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
