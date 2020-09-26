@@ -1,5 +1,7 @@
 # Lottery Book
 
+### 카카오 페이 내역을 이용한 가계부 관리 프로그램
+
 <image src="https://user-images.githubusercontent.com/34594339/94341174-64910800-0042-11eb-875f-4da0a67b00e9.png">
 
 <image src="https://user-images.githubusercontent.com/34594339/94341177-6ce94300-0042-11eb-9811-dfdba189a264.png">
